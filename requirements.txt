@@ -1,0 +1,23 @@
+# Python 3.11 or 3.12 recommended (some forecasting libraries lag behind newer versions)
+
+# core
+pandas>=2.1
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+jupyter
+
+# statistical models (Partner A)
+statsmodels>=0.14
+pmdarima>=2.0
+prophet>=1.1
+
+# machine learning / deep learning (Partner B)
+scikit-learn>=1.4
+xgboost>=2.0
+lightgbm>=4.0
+tensorflow>=2.16
+
+# features and extra data
+holidays>=0.50
+requests>=2.31
