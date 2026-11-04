@@ -1,4 +1,4 @@
-# Electricity Consumption Time-Series Forecasting — Project Plan
+# Electricity Consumption Time-Series Forecasting — Project Plan hh
 
 **Team:** Partner A (statistical models) · Partner B (machine learning / deep learning)
 **Duration:** 6 weeks (adjust week dates to the deadline)
